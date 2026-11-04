@@ -8,4 +8,5 @@ What will the hypotheses be?
 - Student name: analysis and visualisation
 - Student name: data documentation
 
+#Methods
 
